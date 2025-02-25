@@ -1,0 +1,13 @@
+{
+  "id": "test-module-online",
+  "name": "Module Test En Ligne",
+  "version": "1.0.0",
+  "description": "Un module test pour démontrer l'installation depuis une URL",
+  "author": "Assistant",
+  "icon": "icon.png",
+  "permissions": [],
+  "theme": {
+    "primary": "#007AFF",
+    "secondary": "#5856D6"
+  }
+} 
